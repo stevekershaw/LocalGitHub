@@ -1,0 +1,8 @@
+c:\users\steve\documents\visual studio 2013\Projects\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe.config
+c:\users\steve\documents\visual studio 2013\Projects\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe
+c:\users\steve\documents\visual studio 2013\Projects\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.pdb
+c:\users\steve\documents\visual studio 2013\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Properties.Resources.resources
+c:\users\steve\documents\visual studio 2013\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.GenerateResource.Cache
+c:\users\steve\documents\visual studio 2013\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.exe
+c:\users\steve\documents\visual studio 2013\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.pdb
+c:\users\steve\documents\visual studio 2013\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.RPNCalculator.resources
